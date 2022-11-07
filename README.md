@@ -4,7 +4,7 @@ I'm a second year undegrad studying statistics, computer science, and biology at
 
 🔭 Currently, I'm a data science research mentee at the University of Toronto Department of Statistical Science. In the past, I was a product design intern at Lume, design director and organizer at [Q-SITE conference](https://qsiteconf.ca/), a Canadian, student conference on quantum computing, and front-end lead at a biotechnology startup. 
 
-🌱 I also have conducted drug discovery research and radiology research (which was published in [Cambridge Medical Journal](https://cambridgemedicine.org/doi/cmj.2020.11.004)) in the past.
+🌱 In the past, I also have conducted drug discovery research and radiology research (which was published in [Cambridge Medical Journal](https://cambridgemedicine.org/doi/cmj.2020.11.004)).
 
 [Website](emilysu.me) | [LinkedIn](https://www.linkedin.com/in/emilyzsu/)
 
