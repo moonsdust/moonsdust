@@ -6,7 +6,7 @@ I'm a second year undegrad studying statistics, computer science, and biology at
 
 🌱 In the past, I also have conducted drug discovery research and radiology research (which was published in [Cambridge Medical Journal](https://cambridgemedicine.org/doi/cmj.2020.11.004)).
 
-[Website](emilysu.me) | [LinkedIn](https://www.linkedin.com/in/emilyzsu/)
+[Website](https://emilysu.me) | [LinkedIn](https://www.linkedin.com/in/emilyzsu/)
 
 <picture>
 <source 
