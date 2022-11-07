@@ -6,16 +6,16 @@ I'm a second year undegrad studying statistics, computer science, and biology at
 
 🌱 I also have conducted drug discovery research and radiology research (which was published in [Cambridge Medical Journal](https://cambridgemedicine.org/doi/cmj.2020.11.004)) in the past.
 
-[Website](emilysu.me)
+[Website](emilysu.me) | [LinkedIn](https://www.linkedin.com/in/emilyzsu/)
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true&count_private=true" />
 </picture>
