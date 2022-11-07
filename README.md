@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**moonsdust/moonsdust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second year undegrad studying statistics, computer science, and biology at the University of Toronto. My current interests lies in leveraging technology in different fields for the better and machine learning.
 
-Here are some ideas to get you started:
+🔭 Currently, I'm a data science research mentee at the University of Toronto Department of Statistical Science. In the past, I was a product design intern at Lume, design director and organizer at [Q-SITE conference](https://qsiteconf.ca/), a Canadian, student conference on quantum computing, and front-end lead at a biotechnology startup. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I also have conducted drug discovery research and radiology research (which was published in [Cambridge Medical Journal](https://cambridgemedicine.org/doi/cmj.2020.11.004)) in the past.
+
+[Website](emilysu.me)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true" />
+</picture>
