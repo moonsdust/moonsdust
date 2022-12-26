@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm a second year undergrad studying statistics, computer science, and biology at the University of Toronto. My current interests lies in leveraging technology in different fields for the better and machine learning.
+I'm a second year undergrad studying statistics, computer science, and biology at the University of Toronto. My current interests lies in leveraging technology in different fields for the better.
 
 🔭 Currently, I'm a junior machine learning engineer at Omdena and data science mentee at the University of Toronto Department of Statistical Sciences. In the past, I was a product design intern at Lume, design director & organizer at [Q-SITE conference](https://qsiteconf.ca/), design director at the University of Toronto's Quantum Computing Group, and front-end development & design lead at a biotechnology startup. 
 
