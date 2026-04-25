@@ -1,7 +1,8 @@
-# ✧
+# Hi, I'm Emily! ✧
 
-Hi, I'm Emily! I'm currently an undergraduate student at the University of Toronto studying computer science, statistics, and digital humanities.
+I'm currently an undergraduate student at the University of Toronto studying computer science, statistics, and digital humanities.
 
+**Find me**:
 [Enter the Event Horizon (Website)](https://emilysu.me) | [LinkedIn](https://www.linkedin.com/in/emilyzsu/)
 
 <picture>
