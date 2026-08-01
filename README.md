@@ -1,6 +1,6 @@
 # Hi, I'm Emily! ✧
 
-I'm currently an undergraduate student at the University of Toronto studying computer science, statistics, and digital humanities.
+I'm a MASc candidate in industrial engineering at the University of Toronto. At University of Toronto, I also did my undergraduate studying computer science, statistics, and digital humanities.
 
 🌸 **Find me**:
 [Website](https://emilysu.me) | [LinkedIn](https://www.linkedin.com/in/emilyzsu/)
