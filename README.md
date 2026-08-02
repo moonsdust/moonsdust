@@ -7,12 +7,12 @@ I'm a MASc candidate in industrial engineering at the University of Toronto. At 
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true&theme=rose_pine&count_private=true&hide_rank=true"
+  srcset="https://github-stats-extended.vercel.app/api?username=moonsdust&show_icons=true&theme=rose_pine&count_private=true&hide_rank=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true&count_private=true&hide_rank=true"
+  srcset="https://github-stats-extended.vercel.app/api?username=moonsdust&show_icons=true&count_private=true&hide_rank=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=moonsdust&show_icons=true&count_private=true&hide_rank=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=moonsdust&show_icons=true&count_private=true&hide_rank=true" />
 </picture>
