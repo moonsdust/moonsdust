@@ -1,6 +1,6 @@
 # Hi, I'm Emily! ✧
 
-I'm a MASc candidate in industrial engineering at the University of Toronto. My research focuses on human factors engineering in automated vehicles and human-AI interaction. At the University of Toronto, I also did my undergraduate studying computer science, statistics, and digital humanities.
+I'm a MASc candidate in industrial engineering at the University of Toronto. My research focuses on human factors engineering in automated vehicles and human-AI interaction. At the University of Toronto, I also did my undergrad in computer science, statistics, and digital humanities.
 
 🌸 **Find me**:
 [Website](https://emilysu.me) | [LinkedIn](https://www.linkedin.com/in/emilyzsu/)
